@@ -17,10 +17,10 @@ If you just want to learn about transformers, this is useless
 
 but you will deploy transformers-based software to production and you wanna have full control over it, this is probably the type of thing that you'll need to do
 
-just go to the folder `customized-container` and execute:
+just execute in a terminal, from the main folder of the repository:
 
 ```
-docker-compose up
+docker-compose -f customized-container/docker-compose.yml up
 ```
 
 and go to the address `http://127.0.0.1:8888?token=c61a728d-f4e6-45f0-9bb6-65646801f994`
