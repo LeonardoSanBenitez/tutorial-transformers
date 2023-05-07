@@ -1,0 +1,23 @@
+numpy==1.20.3
+pandas==1.2.4
+scipy==1.6.3
+
+
+
+# For CPU-support only, you can conveniently install Transformers and Torch in one line
+# TODO: this is installing Nvidia Cuda, doesn't seems necessary
+transformers[torch]==4.28.1
+
+
+# Optional
+# Only for image pipelines
+pillow==9.5.0
+
+# Optional
+# Only for using the ready datasets
+datasets==2.12.0
+
+# Optional
+# Only for training
+evaluate==0.4.0
+scikit-learn==1.2.2

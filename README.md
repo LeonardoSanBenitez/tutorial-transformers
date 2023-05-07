@@ -1,6 +1,8 @@
 # tutorial-transformers
 Introduction to NLP, Transformers architecture, Transformers library and HuggingFace
 
+[Slides](https://docs.google.com/presentation/d/1re4sFg7Dpch40jPvmRgKnK4VLcbu5uP6mc0apJ374f4/edit?usp=sharing)
+
 ## Running locally
 
 TODO
